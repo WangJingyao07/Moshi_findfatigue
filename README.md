@@ -1,4 +1,5 @@
 # Moshi_findfatigue
+#_author_Wang Jingyao
 #模式识别大作业：疲劳检测（检测司机是否有疲劳（或其他有害与行车）的症状或行为）
 
 '''
